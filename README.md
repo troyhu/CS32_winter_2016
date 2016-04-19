@@ -1,1 +1,2 @@
-# CS32_winter_2016
+# UCLA CS32 Project 3 in winter 2016:
+# FrackMan sprite game
